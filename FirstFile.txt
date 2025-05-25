@@ -1,6 +1,2 @@
 this is my first file to checkin
-<<<<<<< HEAD
-this is second commit
-=======
-pull this file
->>>>>>> 8818efc816a2417164c6b847f8d1848afe50d637
+third commit
